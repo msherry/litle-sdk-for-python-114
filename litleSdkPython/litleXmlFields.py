@@ -9,6 +9,7 @@ import pyxb_114.binding.saxer
 import StringIO
 import pyxb_114.utils.utility
 import pyxb_114.utils.domutils
+import re
 import sys
 import xml.dom
 
